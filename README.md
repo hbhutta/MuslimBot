@@ -25,19 +25,6 @@ A Discord bot for the Muslim community
 - APIs used:
     1. https://random-hadith-generator.vercel.app/
     2. https://quranenc.com/en/home/api/
-- [ ] Bot should be cloud hosted on GCP Cloud Run or AWS EC2
-  - First write Docker file specifying dependencies, etc..
-  - Then use GCP to package file into container, then GCP will run it
-- [ ] We can make changes to the bot and integrate these changes without having to redploy
-
-
-
-AWS 
-
-https://discord.com/api/oauth2/authorize?client_id=1187553756129284097&permissions=8&scope=bot
-Register commands
-
-
-    https://discord.com/api/oauth2/authorize?client_id=1187553756129284097&permissions=21983791152192&scope=bot
+- [ ] Bot should be hosted on a free-tier cloud hosting service like GCP (Cloud Compute) or AWS (EC2 or Lambda)
 
 
