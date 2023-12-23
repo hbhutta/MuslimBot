@@ -16,7 +16,7 @@ A Discord bot for the Muslim community
 - [X] Get random hadiths (Command)
 - [X] Get ranges of verses from surahs (Command)
 - [X] Bot reminds users of the five daily prayers at the appointed times
-- [X] Send random mosque photo (Command)
+- [ ] Send random mosque photo (Command)
 
 
 ## Technical Details
@@ -24,5 +24,6 @@ A Discord bot for the Muslim community
     1. https://random-hadith-generator.vercel.app/
     2. https://quranenc.com/en/home/api/
 - [ ] Bot should be hosted on a free-tier cloud hosting service like GCP (Cloud Compute) or AWS (EC2 or Lambda)
+- [ ] Configure cloud deployment in such a way that new features can be implemented without having to redeploy bot
 
 
